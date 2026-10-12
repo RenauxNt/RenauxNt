@@ -1,7 +1,6 @@
 ## Hi, I'm Renaux Ntakirutimana
 
-Graduate of the **University of Liège (ULiège)**, with a focus on data science and machine learning.
-
+Graduate of the University of Liège (ULiège) with an **MSc in Data Science & Engineering**.
 ---
 
 ### About me
