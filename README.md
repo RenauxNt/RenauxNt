@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Renaux Ntakirutimana
 
-<!--
-**RenauxNt/RenauxNt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate of the **University of Liège (ULiège)**, with a focus on data science and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- 🎓 Graduated from ULiège, Belgium
+- 🌍 Exchange semester at UPC (Barcelona) — Data Science & Engineering
+- 🔬 Interests: machine learning, data engineering, MLOps
+
+### Contact
+
+- Email: [ntkrrenaux@gmail.com](mailto:ntkrrenaux@gmail.com)
+- LinkedIn: [linkedin.com/in/renaux-ntakirutimana-1a8911241](https://www.linkedin.com/in/renaux-ntakirutimana-1a8911241/)
