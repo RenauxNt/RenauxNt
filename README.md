@@ -7,7 +7,7 @@ Graduate of the **University of Liège (ULiège)**, with a focus on data science
 ### About me
 
 - 🎓 Graduated from ULiège, Belgium
-- 🌍 Exchange semester at UPC (Barcelona) — Data Science & Engineering
+- 🌍 Exchange semester at UPC (Barcelona)
 - 🔬 Interests: machine learning, data engineering, MLOps
 
 ### Contact
